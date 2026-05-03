@@ -102,7 +102,7 @@
       "#A64D79"
     ],
     "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
-      "#FFFFFF"
+      "#A64D79"
     ],
     "TEXT_MUTED": [
       "#A64D79"
@@ -129,7 +129,7 @@
       "#000000"
     ],
     "THREAD_CHANNEL_SPINE": [
-      "#FFFFFF"
+      "#A64D79"
     ],
     "TOAST_BG": [
       "#000000"
@@ -140,14 +140,14 @@
     "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
       "#000000"
     ],
+    "HEADER_PRIMARY": [
+      "#A64D79"
+    ],
     "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": [
       "#000000"
     ],
     "VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": [
       "#000000"
-    ],
-    "WHITE": [
-      "#FFFFFF"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "#FFFFFF"
@@ -171,7 +171,7 @@
       "#36393E"
     ],
     "INTERACTIVE_MUTED": [
-      "#121212"
+      "#A64D79"
     ],
     "INTERACTIVE_NORMAL": [
       "#A64D79"
