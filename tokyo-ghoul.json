@@ -78,58 +78,58 @@
       "#000000"
     ],
     "STATUS_WARNING": [
-      "#A64D79"
+      "#FFFFFF"
     ],
     "STATUS_WARNING_BACKGROUND": [
       "#000000"
     ],
     "STATUS_WARNING_TEXT": [
-      "#840200"
+      "#FFFFFF"
     ],
     "TEXT_BRAND": [
-      "#840200"
+      "#FFFFFF"
     ],
     "TEXT_DANGER": [
-      "#840200"
+      "#FFFFFF"
     ],
     "TEXT_LINK": [
-      "#840200"
+      "#FFFFFF"
     ],
     "TEXT_LINK_LOW_SATURATION": [
-      "#840200"
+      "#FFFFFF"
     ],
     "TEXT_LOW_CONTRAST": [
-      "#840200"
+      "#FFFFFF"
     ],
     "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
-      "#840200"
+      "#FFFFFF"
     ],
     "TEXT_MUTED": [
-      "#840200"
+      "#FFFFFF"
     ],
     "TEXT_MUTED_ON_DEFAULT": [
-      "#840200"
+      "#FFFFFF"
     ],
     "TEXT_NORMAL": [
-      "#840200"
+      "#FFFFFF"
     ],
     "TEXT_POSITIVE": [
-      "#840200"
+      "#FFFFFF"
     ],
     "TEXT_PRIMARY": [
-      "#840200"
+      "#FFFFFF"
     ],
     "TEXT_SECONDARY": [
-      "#840200"
+      "#FFFFFF"
     ],
     "TEXT_WARNING": [
-      "#A64D79"
+      "#FFFFFF"
     ],
     "THEME_LOCKED_BLUR_FALLBACK": [
       "#000000"
     ],
     "THREAD_CHANNEL_SPINE": [
-      "#A64D79"
+      "#FFFFFF"
     ],
     "TOAST_BG": [
       "#000000"
@@ -141,7 +141,7 @@
       "#000000"
     ],
     "HEADER_PRIMARY": [
-      "#840200"
+      "#FFFFFF"
     ],
     "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": [
       "#000000"
@@ -150,13 +150,13 @@
       "#000000"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#840200"
+      "#FFFFFF"
     ],
     "SCROLLBAR_THIN_TRACK": [
       "#000000"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#840200"
+      "#FFFFFF"
     ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
       "#000000"
@@ -168,13 +168,13 @@
       "#FFFFFF"
     ],
     "REDESIGN_INPUT_CONTROL_SELECTED": [
-      "#36393E"
+      "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#840200"
+      "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#840200"
+      "#FFFFFF"
     ],
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
       "#00000000"
@@ -194,8 +194,8 @@
   },
   "rawColors": {
     "BLACK_500": "#00000050",
-    "BRAND_260": "#840200",
-    "BRAND_360": "#840200",
+    "BRAND_260": "#FFFFFF",
+    "BRAND_360": "#FFFFFF",
     "BRAND_560": "#000000",
     "BRAND_500": "#121212",
     "ORANGE_260": "#FFFFFF",
@@ -231,7 +231,7 @@
     "RED_430": "#009AFF",
     "PLUM_14": "#222222",
     "PRIMARY_800": "#00000000",
-    "PLUM_1": "#840200",
+    "PLUM_1": "#FFFFFF",
     "PLUM_22": "#000000",
     "PRIMARY_660": "#00000000",
     "PRIMARY_700": "#00000000",
@@ -247,7 +247,7 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://i.pinimg.com/736x/b8/7a/80/b87a80abdfaccb141d959f9e5a881139.jpg",
+    "url": "https://i.pinimg.com/736x/51/3b/b1/513bb11d7df29b97607418619bf37094.jpg",
     "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
