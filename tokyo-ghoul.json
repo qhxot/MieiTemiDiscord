@@ -9,7 +9,7 @@
   ],
   "semanticColors": {
     "BACKGROUND_TERTIARY": [
-      "#00000000"
+      "#0a051485"
     ],
     "BACKGROUND_ACCENT": [
       "#1a0d2e"
@@ -186,10 +186,10 @@
       "#e60026"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#00000000"
+      "#05020aE6"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#00000000"
+      "#0a051485"
     ]
   },
   "rawColors": {
@@ -229,35 +229,35 @@
     "YELLOW_660": "#FFFFFF",
     "YELLOW_700": "#FFFFFF",
     "RED_430": "#e60026",
-    "PLUM_14": "#11051c",
-    "PRIMARY_800": "#00000000",
+    "PLUM_14": "#0a0514",
+    "PRIMARY_800": "#05020a",
     "PLUM_1": "#FFFFFF",
-    "PLUM_22": "#000000",
-    "PRIMARY_660": "#00000000",
-    "PRIMARY_700": "#00000000",
-    "PRIMARY_560": "#000000",
-    "PRIMARY_600": "#00000000",
-    "PRIMARY_630": "#00000000",
+    "PLUM_22": "#0a0514",
+    "PRIMARY_660": "#0a0514",
+    "PRIMARY_700": "#0a0514",
+    "PRIMARY_560": "#0a0514",
+    "PRIMARY_600": "#0a0514",
+    "PRIMARY_630": "#0a0514",
     "PLUM_15": "#1a0d2e",
-    "PLUM_17": "#000000",
-    "PLUM_18": "#000000",
-    "PLUM_19": "#000000",
-    "PLUM_20": "#000000",
-    "PLUM_23": "#000000",
-    "PLUM_24": "#000000"
+    "PLUM_17": "#0a0514",
+    "PLUM_18": "#0a0514",
+    "PLUM_19": "#0a0514",
+    "PLUM_20": "#0a0514",
+    "PLUM_23": "#0a0514",
+    "PLUM_24": "#0a0514"
   },
   "background": {
-      "url": "https://i.pinimg.com/736x/ce/6d/76/ce6d76c9ee733e12a4abd150fa5b47df.jpg",
-    "blur": 0.5,
-    "alpha": 0.25,
+    "url": "https://i.pinimg.com/736x/ce/6d/76/ce6d76c9ee733e12a4abd150fa5b47df.jpg",
+    "blur": 0.4,
+    "alpha": 0.30,
     "size": "cover",
-    "position": "top"
+    "position": "center"
   },
   "plus": {
     "version": "0",
     "iconpack": "solar"
   },
   "spec": 2,
-  "createdAt": "2026-05-03",
+  "createdAt": "2026-07-02",
   "source": "local"
 }
