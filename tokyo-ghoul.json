@@ -1,9 +1,9 @@
 {
-  "name": "Tokyo Ghoul",
-  "description": "Tokyo Ghoul theme",
+  "name": "Code Geass",
+  "description": "Code Geass Rebellion theme",
   "authors": [
     {
-      "name": "illusioni",
+      "name": "exo",
       "id": "712687837039820841"
     }
   ],
@@ -12,16 +12,16 @@
       "#00000000"
     ],
     "BACKGROUND_ACCENT": [
-      "#121212"
+      "#1a0d2e"
     ],
     "BACKGROUND_SECONDARY": [
-      "#00000085"
+      "#0a051485"
     ],
     "BACKGROUND_PRIMARY": [
-      "#000000E6"
+      "#05020aE6"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#2B1A2F"
+      "#311442"
     ],
     "DIVIDER_STRONG": [
       "#000000"
@@ -36,16 +36,16 @@
       "#000000"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
-      "#121212"
+      "#120b1c"
     ],
     "SPOILER_REVEALED_BACKGROUND": [
-      "#121212"
+      "#120b1c"
     ],
     "STAGE_CARD_PILL_BG": [
       "#000000"
     ],
     "STATUS_DANGER": [
-      "#000000"
+      "#e60026"
     ],
     "STATUS_DANGER_BACKGROUND": [
       "#000000"
@@ -54,7 +54,7 @@
       "#FFFFFF"
     ],
     "STATUS_DND": [
-      "#ff6161"
+      "#e60026"
     ],
     "STATUS_IDLE": [
       "#ffbc5b"
@@ -93,7 +93,7 @@
       "#FFFFFF"
     ],
     "TEXT_LINK": [
-      "#FFFFFF"
+      "#e60026"
     ],
     "TEXT_LINK_LOW_SATURATION": [
       "#FFFFFF"
@@ -180,10 +180,10 @@
       "#00000000"
     ],
     "MENTION_BADGE": [
-      "#FF0000"
+      "#e60026"
     ],
     "REDESIGN_MENTION_BADGE": [
-      "#FF0000"
+      "#e60026"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#00000000"
@@ -197,7 +197,7 @@
     "BRAND_260": "#FFFFFF",
     "BRAND_360": "#FFFFFF",
     "BRAND_560": "#000000",
-    "BRAND_500": "#121212",
+    "BRAND_500": "#120b1c",
     "ORANGE_260": "#FFFFFF",
     "ORANGE_300": "#FFFFFF",
     "ORANGE_330": "#FFFFFF",
@@ -228,8 +228,8 @@
     "YELLOW_630": "#FFFFFF",
     "YELLOW_660": "#FFFFFF",
     "YELLOW_700": "#FFFFFF",
-    "RED_430": "#009AFF",
-    "PLUM_14": "#222222",
+    "RED_430": "#e60026",
+    "PLUM_14": "#11051c",
     "PRIMARY_800": "#00000000",
     "PLUM_1": "#FFFFFF",
     "PLUM_22": "#000000",
@@ -238,7 +238,7 @@
     "PRIMARY_560": "#000000",
     "PRIMARY_600": "#00000000",
     "PRIMARY_630": "#00000000",
-    "PLUM_15": "#121212",
+    "PLUM_15": "#1a0d2e",
     "PLUM_17": "#000000",
     "PLUM_18": "#000000",
     "PLUM_19": "#000000",
@@ -247,7 +247,7 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://i.pinimg.com/736x/51/3b/b1/513bb11d7df29b97607418619bf37094.jpg",
+      "url": "https://i.pinimg.com/736x/ce/6d/76/ce6d76c9ee733e12a4abd150fa5b47df.jpg",
     "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
@@ -260,4 +260,4 @@
   "spec": 2,
   "createdAt": "2026-05-03",
   "source": "local"
-}
+}.jpg":
